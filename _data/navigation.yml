@@ -1,11 +1,11 @@
 # main links
 main:
   - title: Categories
-    url: /category-archive/
+    url: /categories/
   - title: Tags
-    url: /tag-archive/
-  - title: Year
-    url: /year-archive/
+    url: /tags/
+  - title: Years
+    url: /years/
 
 # documentation links
 docs:
